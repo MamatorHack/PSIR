@@ -1,0 +1,22 @@
+# Fichiers de données volumineux (Ne pas uploader sur GitHub)
+data/
+datasets/
+
+# Poids des modèles d'Entraînement (>100Mo)
+models/
+*.pth
+*.pt
+
+# Fichiers Python / Environnement Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+.venv/
+
+# IDE et OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
