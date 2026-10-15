@@ -1,0 +1,6 @@
+source_id,sample_id,split,y_true,resnet_pred,deit_pred
+image_01,crop_01,test,scene_A,scene_A,scene_A
+image_01,crop_02,test,scene_B,scene_A,scene_B
+image_02,crop_03,test,scene_A,scene_B,scene_A
+image_03,crop_04,test,scene_B,scene_B,scene_B
+image_04,crop_05,train,scene_A,scene_A,scene_A
